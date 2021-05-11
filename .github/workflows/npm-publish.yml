@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 12
       - run: npm i
-      - run: npm build:dist
+      - run: npm run build:dist
 
   publish-gpr:
     needs: build
