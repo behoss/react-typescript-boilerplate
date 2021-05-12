@@ -1,9 +1,8 @@
 {
   "compilerOptions": {
-    // Added by CRA TS template
     "target": "es6", // Target when you transpile the source code -> tsc
     // "module": "esnext", // The module system to use - Defaults to CommonJS if target is ES3 or ES5 - Usually CommonJS for Node.js apps
-    "outDir": "dist",
+    "outDir": "lib",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
@@ -16,8 +15,11 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
-    "noImplicitAny": true, // Added by Webpack
-    "baseUrl": "src" // Added by dev
+    "noImplicitAny": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "baseUrl": "src"
     // No emit:
     // "noEmit": true, // Set true if using Babel to prevent TypeScript to transpile code - https://www.typescriptlang.org/tsconfig#noEmit
   },

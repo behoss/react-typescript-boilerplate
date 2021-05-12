@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "../src";
-// import App from "../dist";
+// import App from "../lib";
 
 const root = document.createElement("DIV");
 root.setAttribute("id", "root");
