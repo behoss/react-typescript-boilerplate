@@ -6,7 +6,7 @@
   "keywords": [],
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@medicalchain"
+    "registry": "https://npm.pkg.github.com/@behosseini"
   },
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
