@@ -1,10 +1,11 @@
 {
   "name": "@behosseini/react-typescript-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Boilerplate for React",
   "author": "Behzad Hosseini",
   "keywords": [],
   "license": "ISC",
+  "main": "dist",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@behosseini"
   },
