@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "@behosseini/react-boilerplate",
   "version": "0.1.0",
-  "description": "boilerplate",
+  "description": "Boilerplate for React",
   "author": "Behzad Hosseini",
   "keywords": [],
   "license": "ISC",
