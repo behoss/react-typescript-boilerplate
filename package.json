@@ -5,6 +5,9 @@
   "author": "Behzad Hosseini",
   "keywords": [],
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@medicalchain"
+  },
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
     "build:dist": "rimraf dist/* && tsc -b",
