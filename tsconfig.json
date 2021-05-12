@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es6", // Target when you transpile the source code -> tsc
     // "module": "esnext", // The module system to use - Defaults to CommonJS if target is ES3 or ES5 - Usually CommonJS for Node.js apps
-    "outDir": "lib",
+    "outDir": "dist",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
