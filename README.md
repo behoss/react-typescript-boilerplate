@@ -9,6 +9,8 @@ npx webpack-cli init
 - [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 - [ESLint config](https://eslint.org/docs/user-guide/configuring/)
 - [Prettier options](https://prettier.io/docs/en/options.html)
+- [npm-version docs](https://docs.npmjs.com/cli/v7/commands/npm-version)
+- [npm-publish docs](https://docs.npmjs.com/cli/v7/commands/npm-publish)
 
 ### Articles
 - [Formatting code automatically using husky, lint-staged, and prettier](https://create-react-app.dev/docs/setting-up-your-editor/#formatting-code-automatically)
