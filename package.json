@@ -1,10 +1,10 @@
 {
   "name": "@behosseini/react-typescript-boilerplate",
-  "version": "0.1.4",
-  "description": "Boilerplate for React",
-  "author": "Behzad Hosseini",
+  "version": "0.1.0",
+  "description": "TypeScript boilerplate for React components",
+  "author": "Behzad Hosseini <bhd.hosseini@gmail.com>",
   "keywords": [],
-  "license": "ISC",
+  "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist",
   "publishConfig": {
