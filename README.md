@@ -11,6 +11,7 @@ npx webpack-cli init
 - [Prettier options](https://prettier.io/docs/en/options.html)
 - [npm-version docs](https://docs.npmjs.com/cli/v7/commands/npm-version)
 - [npm-publish docs](https://docs.npmjs.com/cli/v7/commands/npm-publish)
+- [semantic-release](https://github.com/semantic-release/semantic-release)
 
 ### Articles
 - [Formatting code automatically using husky, lint-staged, and prettier](https://create-react-app.dev/docs/setting-up-your-editor/#formatting-code-automatically)
